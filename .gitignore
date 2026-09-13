@@ -1,0 +1,16 @@
+# Datasets grandes (se descargan desde el código; GitHub rechaza archivos > 100 MB)
+Modulo I/Data/cifar-10-batches-py/
+Modulo I/Data/cifar-10-python.tar.gz
+Modulo I/Data/eurosat/
+Modulo I/Data/horse-or-human/
+Modulo I/Data/horse-or-human.zip
+Modulo I/Data/validation-horse-or-human/
+Modulo I/Data/validation-horse-or-human.zip
+Modulo I/Data/hymenoptera_data/
+Modulo I/Data/hymenoptera_data.zip
+*.tar.gz
+*.zip
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
